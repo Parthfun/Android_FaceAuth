@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">faceAuth</string>
+    <string name="Password">Password</string>
+    <string name="FaceAuth">FaceAuth</string>
+    <string name="set_authentication_method">Set Authentication Method!</string>
+    <string name="set_password">Set Password</string>
+    <string name="Confirm">Confirm</string>
+    <string name="enter_password">Enter New Password</string>
+    <string name="re_enter_password">Enter the Password again</string>
+    <string name="loading">Loading....</string>
+    <string name="Enter">Enter</string>
+    <string name="enter_password_login">Enter Password to Login</string>
+    <string name="main_app_content">Main App Content</string>
+</resources>
